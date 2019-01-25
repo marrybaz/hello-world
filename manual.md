@@ -1,6 +1,13 @@
 # Uputstvo
 
-Sadrzaj
-=======
+## Sadrzaj
 
-Ovde ide razna uputstva
+
+###Beskonacna petlja
+
+Ovako se uradi **beskonacna** petlja:
+```
+for (; ; ) {
+
+}
+```

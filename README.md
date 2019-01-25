@@ -1,3 +1,4 @@
 # hello-world
-test
-sad cu nesto da promenim
+
+
+U ovaj repo pravim sebi kratke podsetnike o js programiranju.
