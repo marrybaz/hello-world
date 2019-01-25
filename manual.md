@@ -2,8 +2,7 @@
 
 ## Sadrzaj
 
-
-###Beskonacna petlja
+### Beskonacna petlja
 
 Ovako se uradi **beskonacna** petlja:
 ```
